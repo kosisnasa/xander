@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.blg-main{
+    padding-top: 100px;
+    margin-left: 120px;
+    border-bottom: 4px solid purple;
+    width: 10%;
+    font-size: 120px;
+    color: white;
+}
+.bg-img{
+    background-image: url("bgImg.jpeg");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    /* filter: blur(1px);
+    -webkit-filter: blur(1px); */
+}
+.frame-form{
+    /* margin-right: 80px; */
+    float: center;
+    position: fixed;
+    
+}
